@@ -1,4 +1,2 @@
 title: HohmannPy
 description: An open-source library designed for rapid spacecraft design and iteration.
-exclude:
-  - docs
