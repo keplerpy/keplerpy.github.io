@@ -27,3 +27,12 @@ jobs:
       - name: Build docs
         run: |
           sphinx-build -b html . ./docs
+
+      - name: Commit generated docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add docs
+          git commit -m "Auto-build docs" || echo "No changes"
+          git push
