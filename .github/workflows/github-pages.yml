@@ -26,6 +26,17 @@ jobs:
           pip install sphinx sphinx-rtd-theme
           pip install git+https://github.com/hohmannpy/hohmannpy.git
 
+      # ---- JEKYLL BUILD (THIS IS WHAT YOU WERE MISSING) ----
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Build Jekyll site
+        run: |
+          gem install bundler jekyll
+          jekyll build -d site
+
       # Build Sphinx docs into /docs
       - name: Build docs
         run: |
