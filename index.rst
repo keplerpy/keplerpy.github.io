@@ -15,4 +15,4 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   auto/hohmannpy
+   sphinx/hohmannpy
