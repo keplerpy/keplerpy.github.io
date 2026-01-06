@@ -1,4 +1,4 @@
-Dynamics
+hohmannpy.dynamics
 =======================
 
 .. automodule:: hohmannpy.dynamics

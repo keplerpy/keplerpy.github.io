@@ -1,19 +1,12 @@
-.. HohmannPy documentation master file, created by
-   sphinx-quickstart on Mon Jan  5 00:45:25 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-HohmannPy documentation
+HohmannPy Documentation
 =======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+This site is currently under construction...
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: HohmannPy Documentation
 
-   astro
-   dynamics
+   tutorials/index
+   theory/index
+   api/index
