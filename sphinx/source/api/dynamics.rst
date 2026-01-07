@@ -1,5 +1,5 @@
-hohmannpy.dynamics
-=======================
+Dynamics (:mod:`hohmannpy.dynamics`)
+=====================================
 
 .. automodule:: hohmannpy.dynamics
    :members:

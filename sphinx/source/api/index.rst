@@ -2,7 +2,7 @@ API Reference
 =======================
 
 .. toctree::
-   :maxdepth:
+   :maxdepth: 1
    :caption: API Reference
 
    astro/astro

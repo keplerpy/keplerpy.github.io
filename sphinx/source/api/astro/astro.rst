@@ -2,9 +2,9 @@ Astrodynamics (:mod:`hohmannpy.astro`)
 ======================================
 
 .. automodule:: hohmannpy.astro
-   :members:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   time
    conversions
