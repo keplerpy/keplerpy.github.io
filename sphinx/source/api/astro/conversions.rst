@@ -16,7 +16,7 @@ astro.conversions
 
 .. toctree::
    :maxdepth: 1
-   :hidden:  a
+   :hidden:
 
    conversions/classical_2_state
    conversions/classical_2_state_p
