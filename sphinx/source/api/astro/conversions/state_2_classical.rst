@@ -1,4 +1,4 @@
-astro.conversions.state_2_classical
+astro.state_2_classical
 ===================================
 
 .. currentmodule:: hohmannpy.astro.conversions

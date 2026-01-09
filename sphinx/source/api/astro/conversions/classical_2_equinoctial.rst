@@ -1,4 +1,4 @@
-astro.conversions.classical_2_equinoctial
+astro.classical_2_equinoctial
 =========================================
 
 .. currentmodule:: hohmannpy.astro.conversions

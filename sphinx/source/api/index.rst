@@ -5,5 +5,6 @@ API Reference
    :maxdepth: 1
    :caption: API Reference
 
-   astro/astro
+   astro/index
    dynamics
+   ui/index
